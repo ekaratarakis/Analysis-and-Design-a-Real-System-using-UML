@@ -15,3 +15,7 @@ The software system we have designed performs the below functionalities and has 
 - Minimizing bureaucracy.
 - Better insurance and protection of the municipality's files.
 ## System Requirements Analysis
+- **Functional Requirements :** The functional requirements are specifically important as they define the functionality of the system. During the phase of design several meatings with the people in charge in the municipality took place in order to define which are the exact desired functionalities of the system. So we came up with the following plan.
+  - Guest : A guest can have access to all general information and data which are not require further access to the system (lon in).
+  - Low level user : A low level user can be a citizen or an emplyee and can have access in specific fucntionalities according to his status
+    - Citizens
