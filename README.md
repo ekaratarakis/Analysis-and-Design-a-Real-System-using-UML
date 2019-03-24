@@ -6,11 +6,6 @@ At first the technical service is composed of the departments below.
 - Department of urban planning, environment and civil protection.
 - Department of cleaning, recycling and preserving green.  
 
-
-
-
-
-
 The software system we have designed performs the below functionalities and has the following features.
 - An introductional and welcoming front page with information and able to accept registration data from the citizens and the members of the technical service.
 - An electronic database where will be stored all the data from the registration as well as information about the technical service (e.g. human resourses, machinery etc).
