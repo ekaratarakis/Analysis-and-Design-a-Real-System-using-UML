@@ -24,3 +24,12 @@ The software system we have designed performs the below functionalities and has 
     - They can send requests of a technical nature.
     - They can send requests of complaining if the above requests are not satisfied.
     - They can watch the status of the requests.
+    
+    For guests,
+    - They can watch the total number of requests that are been received.
+    - They can refer the requests to the respective department.
+    - They can register the requests in the history file (requests file).
+    - They can remove inappropriate or non-relevant messages.
+    - They can answer to request whether there is reason to do so.
+    - They can update the status of the request so that the citizen can know its path.
+  - High level user :  
