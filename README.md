@@ -67,3 +67,7 @@ The non - funstional requirements are guarrantee the safety, the information man
 - In case of a possible downfall of the server there must be a restore of the data through the backup files.
 - The system must not fall more than 2 times per year with a time difference of 5 months.
 - In case of a possible downfall the users must see the message "Connection to the server is not available. Please call the Municipality for further information".
+## Analysis and Design using UML diagrams
+### Use Case Diagrams
+To begin with, we present a use case diagram where there are included all kind of use cases as well as all kind of users of the system.
+
