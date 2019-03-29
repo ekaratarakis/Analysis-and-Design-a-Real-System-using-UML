@@ -71,3 +71,9 @@ The non - funstional requirements are guarrantee the safety, the information man
 ### Use Case Diagrams
 To begin with, we present a use case diagram where there are included all kind of use cases as well as all kind of users of the system.
 
+![Image of the 1st use case diagram](https://github.com/ekaratarakis/Analysis-and-Design-a-Real-System-using-UML/blob/master/UML%20Diagrams/useCaseDiagram1.jpg)
+
+Then, we present another use case diagram where there are included all kind of use cases of a specific complicated branch of the system.
+
+![Image of the 2nd use case diagram](https://github.com/ekaratarakis/Analysis-and-Design-a-Real-System-using-UML/blob/master/UML%20Diagrams/useCaseDaiagram2.jpg)
+
