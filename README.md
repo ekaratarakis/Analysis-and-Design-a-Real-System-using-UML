@@ -77,3 +77,14 @@ Then, we present another use case diagram where there are included all kind of u
 
 ![Image of the 2nd use case diagram](https://github.com/ekaratarakis/Analysis-and-Design-a-Real-System-using-UML/blob/master/UML%20Diagrams/useCaseDaiagram2.jpg)
 
+Now, we present an activity diagram of our system which refers to the dicision of making a project, the processing of information and the announcement of it
+
+![Image of the activity diagram](https://github.com/ekaratarakis/Analysis-and-Design-a-Real-System-using-UML/blob/master/UML%20Diagrams/activityDiagram.jpg)
+
+In the picture below is depicted the class diagram of our system where is also depicted the hierarchy of all of the classes that we designed.
+
+![Image of the class diagram](https://github.com/ekaratarakis/Analysis-and-Design-a-Real-System-using-UML/blob/master/UML%20Diagrams/classDiagram.jpg)
+
+Last but not least, we present the sequence diagram of a design level of our system. The sequence diagram refers to the send of a request from a citizen/guest for registration to the system.
+
+![Image of sequence diagram](https://github.com/ekaratarakis/Analysis-and-Design-a-Real-System-using-UML/blob/master/UML%20Diagrams/sequenceDiagram.jpg)
