@@ -63,3 +63,7 @@ The non - funstional requirements are guarrantee the safety, the information man
 - Every user mustn't allocate more than 500 kbytes of memory.
 - The system must perform backups in daily bases after the end of the actions.
 ### Strart Up and Shut Down
+- The reboot of the system must not take more than 5 minutes and must be performed only by the server.
+- In case of a possible downfall of the server there must be a restore of the data through the backup files.
+- The system must not fall more than 2 times per year with a time difference of 5 months.
+- In case of a possible downfall the users must see the message "Connection to the server is not available. Please call the Municipality for further information".
